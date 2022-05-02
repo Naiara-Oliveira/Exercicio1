@@ -1,6 +1,4 @@
-package Bootcamp.Exercicios;
-
-import java.util.Date;
+package Bootcamp.Exercicios1;
 
 public class Mensagem {
     public static void main(String[] args) {

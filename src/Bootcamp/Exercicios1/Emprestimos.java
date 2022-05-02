@@ -1,4 +1,4 @@
-package Bootcamp.Exercicios;
+package Bootcamp.Exercicios1;
 
 public class Emprestimos {
     public static void main(String[] args) {
