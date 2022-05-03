@@ -1,6 +1,2 @@
-"# Exercicio1Do bootcamp GFT Start Woman Java Modulo 3 " 
-"# Exercicio1" 
-"# Exercicio1" 
-"# Exercicio1" 
-"# Exercicio1" 
-"# Exercicio1" 
+"# Exercicio 1 e 2 Do Bootcamp GFT Start Woman Java Modulo 3 " 
+
